@@ -1,6 +1,6 @@
 # habit-tracker
 
-This is the project code for my tutorial on [Twilio](https://zachsnoek.com/blog).
+This is the project code for my tutorial on [Twilio's blog](https://www.twilio.com/blog/create-a-habit-tracker-with-twilio-functions-and-notion).
 
 If you found my post helpful, please consider supporting my work financially:
 
